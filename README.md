@@ -33,6 +33,7 @@
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
+- [Presentation](#presentation)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -76,6 +77,10 @@
 > Infrastructure: Docker, ffmpeg (for media processing), integration with local files simulating input via WhatsApp
 
 > Others: Docker, cURL, Flask and ngrok to host the webhooks
+
+### Presentation
+> For a detailed overview of the project, check out the [slides presentation](docs/slides.pdf).
+
 
 ## Getting Started
 
