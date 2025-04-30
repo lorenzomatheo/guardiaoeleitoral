@@ -79,7 +79,7 @@
 > Others: Docker, cURL, Flask and ngrok to host the webhooks
 
 ### Presentation
-> For a detailed overview of the project, check out the [slides presentation](docs/slides.pdf).
+> Slide used in the demonstration video presentation [slides presentation](docs/slides.pdf).
 
 
 ## Getting Started
