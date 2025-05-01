@@ -33,6 +33,7 @@
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
+- [Presentation](#presentation)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -77,6 +78,10 @@
 
 > Others: Docker, cURL, Flask and ngrok to host the webhooks
 
+### Presentation
+> Slide used in the demonstration video presentation [slides presentation](docs/slides.pdf).
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -85,17 +90,16 @@
   Recommended for compatibility with torch, opencv-python, and other libraries.
 
 > Hugging Face account with access to the Wvolf/ViT_Deepfake_Detection model
-  Required to use the deepfake detection pipeline.
+  Required to use the deepfake detection pipeline. 
 
-> Dependencies installed via requirements
+> Dependencies installed via pip
 > langgraph
 > langsmith(for future monitoring of the agents)
 > transformers
-> torch
+> pyngrok
 > opencv-python
-> pillow
+> Pillow
 > flask
-> requests
 > python-dotenv
 > pyngrok
 
